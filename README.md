@@ -62,8 +62,16 @@ if __name__ == '__main__':
     app.run_server(host= '0.0.0.0', port=8050)
 ```
 
+## Example requirements.txt doc text
+```
+dash
+plotly
+cufflinks
+gunicorn
+numpy
+```
 
-
+No proc file etc are needed.
 
 ## Source / Reference:
 https://dash.plotly.com/dash-core-components/tabs
